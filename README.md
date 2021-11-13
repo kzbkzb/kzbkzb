@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 大家好，我是K同学啊 👋
 
 <!--
 **kzbkzb/kzbkzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
